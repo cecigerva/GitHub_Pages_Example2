@@ -1,0 +1,34 @@
+Resume Guidelines
+
+❏ Try to fit your resume onto one page by expanding the margins, decreasing font size, removing unnecessary spacing, etc. ❏ This can seem like a daunting task when you have years of experience, but for industry jobs, it is necessary to do. Save your current resume as a “master” document to work off of as you create more tailored versions
+❏ The first line underneath your name should include your phone number, city, and state (omit your street address), email address, LinkedIn, GitHub
+❏ Consider integrating the following sections:
+❏ 1. Summary (*optional* 1-3 sentences describing your professional background, main areas of interest, and major skills)
+❏ When you find a job you’re interested in, it’s very important that this summary aligns with the job description
+❏ 2. Experience (chronological from most to least recent; position title should be in line with the date the position was held) ❏ Experience can encompass teaching experience, research experience, and professional industry experience, but prioritize the experiences that are most relevant
+❏ The first bullet of each position held should be a short summary of what the position entailed
+❏ (What were your high-level responsibilities? If you worked for a company, how big was the company, and what industry?)
+❏ Each bullet that follows should pack a punch and begin with a powerful action/verb (e.g., Created, Developed, Designed, Executed, etc.)
+❏ Identify the task, the action you took, and the results you produced (even better if you can quantify the results (e.g., increased optimization by 20%)
+❏ 3. Projects and/or Licenses & Certifications
+❏ If you have completed any short-term projects where you’ve applied relevant skills, you may want to include a project section2
+❏ For those that have attended an AI4ALL program in the past, please insert this in the “Projects”, “Experience”, or “Licensing & Certifications”) section
+❏ Include one line about your final project with skills used, and outcomes achieved
+❏ 4. Skills (list your technical languages, packages, tools, and quantitative techniques) in order of greatest to least proficient
+❏ 5. Education ❏ School names should only be listed once
+❏ If you have room to include Publications, Conferences/Presentations, or Relevant Training, be selective
+❏ Prioritize the experiences where you participated as a leader or speaker as opposed to a general member or attendee
+❏ Link to your Google Scholar (if you have one) to give the reader full access to your publications if they wish to explore
+
+
+
+
+
+LinkedIn Guidelines
+❏ As a job seeker, you must advocate for yourself and work towards creating your own “brand”. This concept might feel uncomfortable at first, but it is critical to differentiate yourself within the industry job market
+❏ Add your profile picture
+❏ Update your byline (e.g., Ph.D. Candidate at [insert university name] or current position) ❏ If you’ve graduated, you can change your name to ([name], Ph.D.)
+❏ In your About section, focus on what excites you about the field you’re in, what skills you’re interested in developing, how many years of experience you have, etc.
+❏ Populate your Experience, Education, Accomplishments (Courses, Honors & Awards, Publications, & Projects), and Skills sections
+❏ Add the Data Science Boot Camp to your Licenses & Certifications section ❏ Link to any publications you have to showcase some of your work
+❏ Finally, connect with Erdős staff and other members of the Erdos Institute! Expand your network and learn from what others are doing
