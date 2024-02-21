@@ -1,6 +1,6 @@
 # Biases in ChatGPT and How to Fix Them
 
-Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge Apply AI program.
+Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.
 
 
 ## Problem Statement <!--- do not change this line -->
